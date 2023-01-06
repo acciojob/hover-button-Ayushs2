@@ -1,8 +1,9 @@
 #btn{
 	background-color:black;
+	border:none;
 	color:white;
 	border-radius:5px;
-	
+	cursor: pointer;
 }
 #btn:hover{
 	background-color:yellow;
